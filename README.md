@@ -3,4 +3,4 @@
 2- composer require symfony/web-server-bundle <br>
 3- edit .env <br>
 4- php bin/console doctrine:migrations:migrate <br>
-4- symfony server:start <br>
+5- symfony server:start <br>
