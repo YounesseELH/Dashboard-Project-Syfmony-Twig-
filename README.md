@@ -25,12 +25,12 @@ Dashboard that build with symfony and twig, that containts user CRUD
 ![Capture3](https://user-images.githubusercontent.com/96134357/196054961-2df62a61-4560-4642-954e-e0bd9bbaa451.PNG)
 
 <div>
-  <strong><h4>4️⃣ Update user </h4></strong>
+  <strong><h4>4️⃣ Show user info</h4></strong>
 </div>
 
 ![Capture4](https://user-images.githubusercontent.com/96134357/196054993-4747060f-8d8b-4bda-ba20-e30f04a16ff3.PNG)
 <div>
-  <strong><h4>5️⃣ Delete user</h4></strong>
+  <strong><h4>5️⃣ Update user</h4></strong>
 </div>
 
 ![Capture5](https://user-images.githubusercontent.com/96134357/196055095-dbb9446f-45df-438d-a543-ebef2e33602f.PNG)
